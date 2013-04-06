@@ -15,7 +15,6 @@
 		CE50DAA71710A2FF001A593A /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE50DAA51710A2FF001A593A /* MainMenu.xib */; };
 		CE50DAAF1710A346001A593A /* CustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = CE50DAAE1710A346001A593A /* CustomView.m */; };
 		CE50DAB21710A3E6001A593A /* NSView+Fade.m in Sources */ = {isa = PBXBuildFile; fileRef = CE50DAB11710A3E6001A593A /* NSView+Fade.m */; };
-		CE50DAB41710A800001A593A /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = CE50DAB31710A800001A593A /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,8 +35,6 @@
 		CE50DAAE1710A346001A593A /* CustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomView.m; sourceTree = "<group>"; };
 		CE50DAB01710A3E6001A593A /* NSView+Fade.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSView+Fade.h"; sourceTree = "<group>"; };
 		CE50DAB11710A3E6001A593A /* NSView+Fade.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSView+Fade.m"; sourceTree = "<group>"; };
-		CE50DAB31710A800001A593A /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		CE50DAB51710A8B4001A593A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,8 +108,6 @@
 				CE50DA9C1710A2FF001A593A /* main.m */,
 				CE50DA9E1710A2FF001A593A /* FadeViewExample-Prefix.pch */,
 				CE50DA9F1710A2FF001A593A /* Credits.rtf */,
-				CE50DAB31710A800001A593A /* LICENSE */,
-				CE50DAB51710A8B4001A593A /* README.md */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -171,7 +166,6 @@
 				CE50DA9B1710A2FF001A593A /* InfoPlist.strings in Resources */,
 				CE50DAA11710A2FF001A593A /* Credits.rtf in Resources */,
 				CE50DAA71710A2FF001A593A /* MainMenu.xib in Resources */,
-				CE50DAB41710A800001A593A /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
